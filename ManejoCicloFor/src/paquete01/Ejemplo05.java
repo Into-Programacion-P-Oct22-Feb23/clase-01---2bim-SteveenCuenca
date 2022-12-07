@@ -33,13 +33,55 @@ public class Ejemplo05 {
         potencia = 3;
         // 9. resultado <-- 1
         resultado = 1;
-        
-        for (int  contador = 1; contador <= potencia; contador++) {
+
+        for (int contador = 1; contador <= potencia; contador++) {
             resultado = resultado * numero;
         }
-        
+
         System.out.printf("%d\n", resultado);
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
 
 }

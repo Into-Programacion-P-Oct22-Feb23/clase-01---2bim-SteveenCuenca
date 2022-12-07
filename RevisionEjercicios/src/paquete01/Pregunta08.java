@@ -17,11 +17,13 @@ public class Pregunta08 {
     public static void main(String[] args) {
         int n;
         n = 2;
-        while (n<=3) {
+        while (n <= 3) {
+            System.out.println(n);
+            //n = n + 1;
             n = n + 1;
         }
         System.out.println(n);
-        
+
     }
-    
+
 }
